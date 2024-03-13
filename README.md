@@ -11,6 +11,11 @@ Through extracting data from Martian news sites and analyzing weather data, we'l
 Join me on this exciting journey to unlock the secrets of Mars!
 
 ## Analysis 🔍
+Please visit the **Images** folder for a overview of the visual analysis.
+
+An interesting Fact about the Hottest and Coldest months:
+- Hottest Month & Temp: (3, -83.30729166666667)
+- Coldest Month & Temp: (8, -68.38297872340425)
 
 ## Links 🔗
 
@@ -30,3 +35,6 @@ Join me on this exciting journey to unlock the secrets of Mars!
   -  URL: https://realpython.com/beautiful-soup-web-scraper-python/
 
 ## Happy Coding 🎉
+![mars_pic](https://images.unsplash.com/photo-1630694093867-4b947d812bf0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWFyc3xlbnwwfDB8MHx8fDI%3D)
+![mars_pic2](https://images.unsplash.com/photo-1612892483236-52d32a0e0ac1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyc3xlbnwwfDB8MHx8fDI%3D)
+![mars_pic3](https://images.unsplash.com/photo-1573588028698-f4759befb09a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFyc3xlbnwwfDB8MHx8fDI%3D)
